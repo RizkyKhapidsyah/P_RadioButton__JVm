@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P_RadioButton__JVm</string>
+    <string name="judul">Pilih Warna :</string>
+    <string name="Pilihan_Merah">Merah</string>
+    <string name="Pilihan_Hijau">Hijau</string>
+    <string name="Pilihan_Biru">Biru</string>
+</resources>
